@@ -1,0 +1,89 @@
+ styles.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+html{
+   background-color: black;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+    max-height: 100%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+section {
+    width: 40%;
+    color: white;
+    margin-left: 20px;
+    font-size: 130%;
+}
+
+#social-icons{
+    align-items: center;
+    justify-content: center;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+/* Section styling */
+section {
+    background: black;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    align-items: center;
+    margin-left: 15%;
+    margin-top: 80px;
+}
+
+#projects .project {
+    margin-bottom: 1rem;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: …
+}
+
+.logo img{
+    border-radius: 50%;
+    margin-left: 60%;
+    justify-content: end;
+    align-items: center;
+    margin-bottom: 20%;
+    margin-top: -29.5%;
+}
+
+.home-contant span{
+    color:mediumslateblue;
+}
+
+
+#social-links #social-icons{
+    color: white;
+}
+
